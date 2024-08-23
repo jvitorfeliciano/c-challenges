@@ -1,2 +1,2 @@
 # c-challenges
-Welcome to c-challenges, a collection of solved programming problems in the C language. This repository serves as a record of my growth over time, showcasing solutions to a variety of challenges that demonstrate my evolving understanding of C programming.
+Welcome to c-challenges! This repository is where I’m keeping all the C programming problems I’ve solved. It’s a way to track my progress as I work through various challenges and continue to improve my skills in the C language.
