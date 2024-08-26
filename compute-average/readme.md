@@ -1,9 +1,7 @@
 ## Statement
 
 Calcule a média final (média ponderada) da disciplina de lógica de programação sabendo que o
-O aluno tem nota final nos exames igual a 8 e nota final nos trabalhos igual a 7. (fórmula:
-
-média_final = nota_teste * 0,6 + nota_trabalho * 0,4
+O aluno tem nota final nos exames igual a 8 e nota final nos trabalhos igual a 7. fórmula: média_final = nota_teste * 0,6 + nota_trabalho * 0,4
 
 ## Example 1
 

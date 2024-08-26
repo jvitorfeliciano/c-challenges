@@ -7,7 +7,7 @@ int main()
     printf("assignment grade: ");
     scanf("%f", &assignment_grade);
 
-    printf("exam grande: ");
+    printf("exam grade: ");
     scanf("%f", &exam_grade);
 
     float final_average = (exam_grade * 0.6) + (assignment_grade * 0.4);
